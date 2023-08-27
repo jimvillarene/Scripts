@@ -1,0 +1,54 @@
+2023-07-31 21:46:55,579-DEBUG-Start of program
+2023-07-31 21:46:55,579-DEBUG-Start of factorial 5
+2023-07-31 21:46:55,579-DEBUG-value of i 1 , value of total 1
+2023-07-31 21:46:55,579-DEBUG-value of i 2 , value of total 2
+2023-07-31 21:46:55,579-DEBUG-value of i 3 , value of total 6
+2023-07-31 21:46:55,579-DEBUG-value of i 4 , value of total 24
+2023-07-31 21:46:55,579-DEBUG-value of i 5 , value of total 120
+2023-07-31 21:46:55,579-DEBUG-return value is 120
+2023-07-31 21:46:55,580-DEBUG-End of program
+2023-07-31 21:47:35,237-DEBUG-Start of program
+2023-07-31 21:47:35,237-DEBUG-Start of factorial 5
+2023-07-31 21:47:35,237-DEBUG-value of i 1 , value of total 1
+2023-07-31 21:47:35,237-DEBUG-value of i 2 , value of total 2
+2023-07-31 21:47:35,237-DEBUG-value of i 3 , value of total 6
+2023-07-31 21:47:35,237-DEBUG-value of i 4 , value of total 24
+2023-07-31 21:47:35,237-DEBUG-value of i 5 , value of total 120
+2023-07-31 21:47:35,237-DEBUG-return value is 120
+2023-07-31 21:47:35,237-DEBUG-End of program
+2023-07-31 21:53:25,425-DEBUG-Start of program
+2023-07-31 21:53:25,425-DEBUG-Start of factorial 5
+2023-07-31 21:53:25,425-DEBUG-value of i 1 , value of total 1
+2023-07-31 21:53:25,425-DEBUG-value of i 2 , value of total 2
+2023-07-31 21:53:25,425-DEBUG-value of i 3 , value of total 6
+2023-07-31 21:53:25,425-DEBUG-value of i 4 , value of total 24
+2023-07-31 21:53:25,425-DEBUG-value of i 5 , value of total 120
+2023-07-31 21:53:25,425-DEBUG-return value is 120
+2023-07-31 21:53:25,425-DEBUG-End of program
+2023-07-31 21:54:31,019-DEBUG-Start of program
+2023-07-31 21:54:31,020-DEBUG-Start of factorial 5
+2023-07-31 21:54:31,020-DEBUG-value of i 1 , value of total 1
+2023-07-31 21:54:31,020-DEBUG-value of i 2 , value of total 2
+2023-07-31 21:54:31,020-DEBUG-value of i 3 , value of total 6
+2023-07-31 21:54:31,020-DEBUG-value of i 4 , value of total 24
+2023-07-31 21:54:31,020-DEBUG-value of i 5 , value of total 120
+2023-07-31 21:54:31,020-DEBUG-return value is 120
+2023-07-31 21:54:31,020-DEBUG-End of program
+2023-07-31 21:54:36,613-DEBUG-Start of program
+2023-07-31 21:54:36,613-DEBUG-Start of factorial 5
+2023-07-31 21:54:36,613-DEBUG-value of i 1 , value of total 1
+2023-07-31 21:54:36,613-DEBUG-value of i 2 , value of total 2
+2023-07-31 21:54:36,613-DEBUG-value of i 3 , value of total 6
+2023-07-31 21:54:36,613-DEBUG-value of i 4 , value of total 24
+2023-07-31 21:54:36,613-DEBUG-value of i 5 , value of total 120
+2023-07-31 21:54:36,613-DEBUG-return value is 120
+2023-07-31 21:54:36,613-DEBUG-End of program
+2023-07-31 21:54:48,638-DEBUG-Start of program
+2023-07-31 21:54:48,639-DEBUG-Start of factorial 5
+2023-07-31 21:54:48,639-DEBUG-value of i 1 , value of total 1
+2023-07-31 21:54:48,639-DEBUG-value of i 2 , value of total 2
+2023-07-31 21:54:48,639-DEBUG-value of i 3 , value of total 6
+2023-07-31 21:54:48,639-DEBUG-value of i 4 , value of total 24
+2023-07-31 21:54:48,639-DEBUG-value of i 5 , value of total 120
+2023-07-31 21:54:48,639-DEBUG-return value is 120
+2023-07-31 21:54:48,639-DEBUG-End of program

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/albertorenejimenezvilla/Documents/Scripts/Curso/Debugging/Debugging.py", line 18, in boxprint
+    raise Exception('"symbol" needs to be of a lenght of 1 character')
+Exception: "symbol" needs to be of a lenght of 1 character
+Traceback (most recent call last):
+  File "/Users/albertorenejimenezvilla/Documents/Scripts/Curso/Debugging/Debugging.py", line 18, in boxprint
+    raise Exception('"symbol" needs to be of a lenght of 1 character')
+Exception: "symbol" needs to be of a lenght of 1 character
